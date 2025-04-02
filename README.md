@@ -55,8 +55,8 @@ This means whether we hire you is based on how you do during our interview proce
 We've found that our best hires have been the most enthusiastic throughout our process. If you are very excited about working here, please feel free to go above and beyond on this assignment.
 
 
-### Work done here as a take home by QA Wolf Company by Michael Ilerioluwa Adeniyi
-# Hacker News Article Sorter
+# Work done here as a take home by QA Wolf Company by Michael Ilerioluwa Adeniyi
+## Hacker News Article Sorter
 
 A Playwright script that validates the sorting of articles on Hacker News, ensuring they are correctly ordered from newest to oldest.
 
